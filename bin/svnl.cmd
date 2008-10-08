@@ -1,0 +1,1 @@
+tortoiseproc /command:log /path:"%CD%"

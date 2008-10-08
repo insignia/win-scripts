@@ -1,0 +1,1 @@
+TortoiseProc /command:commit /path:"%CD%"
